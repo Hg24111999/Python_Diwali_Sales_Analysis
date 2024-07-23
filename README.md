@@ -30,5 +30,6 @@ This project covers an end-to-end analysis of Diwali sales data, starting from d
 
 
 **File Attachments**
-Please find the attached file (Diwali_Sales_Data_Analysis.ipynb) to explore all aspects of this project, including code implementation, data visualizations, and detailed analysis.
+
+Please find the attached file (Our_Data_sales_Analysis.ipynb) to explore all aspects of this project, including code implementation, data visualizations, and detailed analysis.
 
